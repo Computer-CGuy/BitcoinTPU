@@ -1,3 +1,3 @@
 # BitcoinTPU
 
-- [] Implement Reduce Function for Add and Xor
+- [ ] Implement Reduce Function for Add and Xor
