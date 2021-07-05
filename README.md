@@ -14,3 +14,4 @@ Status=> Average
 Nonce Range=> 1K  
 Block=> Genesis
 Status=> Maybe Average
+Recordings=> [Recording1](https://github.com/Computer-CGuy/BitcoinTPU/blob/main/Screencast%20from%2005-07-21%2007:11:42%20PM%20IST.webm) [Recording2](https://github.com/Computer-CGuy/BitcoinTPU/blob/main/Screencast%20from%2005-07-21%2007:12:15%20PM%20IST.webm)
